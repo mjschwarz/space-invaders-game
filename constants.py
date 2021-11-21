@@ -1,0 +1,14 @@
+# ---------
+# CONSTANTS
+# ---------
+FPS = 60
+WIDTH, HEIGHT = 750, 750
+INVADER_VEL = 1
+PLAYER_VEL = 5
+LASER_VEL = 5
+HIT_PTS = 10
+ROUND_PTS = 100
+
+WHITE = (255, 255, 255)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
